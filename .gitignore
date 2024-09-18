@@ -1,0 +1,5 @@
+# 忽略 experiments 目录
+experiments/
+
+# 忽略 python 缓存目录
+__pycache__/
